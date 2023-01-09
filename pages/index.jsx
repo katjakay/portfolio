@@ -10,6 +10,8 @@ function Home() {
         <title>Home</title>
       </Head>
 
+
+
       <Navbar />
 
       <section className="hero">
