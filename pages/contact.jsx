@@ -1,4 +1,5 @@
 import Head from 'next/head';
+
 import Navbar from '../components/Navbar';
 
 function Contact() {
@@ -17,12 +18,11 @@ function Contact() {
               Contact
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
+              Feel free to contact me if you want to collaborate.
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Email: katja.sabando@gmail.com</li>
+              <li className="contact-item">Phone: +43 677 6377 6273</li>
             </ul>
           </div>
         </div>
