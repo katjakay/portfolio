@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Link from 'next/link';
-
 import Navbar from '../components/Navbar';
 
 function Home() {
@@ -9,8 +8,6 @@ function Home() {
       <Head>
         <title>Home</title>
       </Head>
-
-
 
       <Navbar />
 
@@ -21,8 +18,8 @@ function Home() {
               Katja Kay Sabando
             </h1>
             <p className="description">
-              Welcome to my portfolio. Currently empty but it's going to be amazing.
-              First day of UpLeveled! 
+              Welcome to my portfolio. Currently empty but it's going to be
+              amazing. First day of UpLeveled!
             </p>
 
             <Link href="/contact" className="cta">
