@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+
 import Navbar from '../components/Navbar';
 
 function Home() {
@@ -15,15 +16,14 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Katja Kay Sabando
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              Welcome to my portfolio. Currently empty but it's going to be amazing. 
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              About me
             </Link>
           </div>
 
