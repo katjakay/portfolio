@@ -19,7 +19,8 @@ function Home() {
               Katja Kay Sabando
             </h1>
             <p className="description">
-              Welcome to my portfolio. Currently empty but it's going to be amazing. 
+              Welcome to my portfolio. Currently empty but it's going to be amazing.
+              First day of UpLeveled! 
             </p>
 
             <Link href="/contact" className="cta">
